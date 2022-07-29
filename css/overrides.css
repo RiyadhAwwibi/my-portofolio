@@ -90,7 +90,7 @@
   }
   
   .profile {
-    font-family: "CooperBTLight";
+    font-family: "CooperBTLight", "Cambria", serif !important;
     font-weight: normal;
     font-size: 32px;
     line-height: 40px;
